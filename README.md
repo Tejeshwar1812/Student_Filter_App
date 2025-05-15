@@ -1,4 +1,4 @@
-# 📘 Learnbasics Assignment Reference Guide
+# 📘 Learnbasics Assignment 
 
 ## 🎯 Task Overview
 
